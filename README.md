@@ -2,7 +2,7 @@
 
 ### 💫 &nbsp;About Me
 
-I'm a 21-year-old Full Stack Developer. I delved into programming at the age of 14 and am currently immersed in crafting and maintaining services and microservices for various businesses. I'm on the brink of completing my degree in Análise e Desenvolvimento de Sistemas at FATEC in Ribeirão Preto.
+I'm a 22-year-old Full Stack Developer. I delved into programming at the age of 14 and am currently immersed in crafting and maintaining services and microservices for various businesses. I'm on the brink of completing my degree in Análise e Desenvolvimento de Sistemas at FATEC in Ribeirão Preto.
 
 Defining myself through problem-solving and the pursuit of new knowledge is what fuels my passion.
 
